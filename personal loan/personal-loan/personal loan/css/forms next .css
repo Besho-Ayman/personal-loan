@@ -1,0 +1,71 @@
+/*{
+    /* padding: 0; */
+    /* margin: 0; */
+    /* box-sizing: border-box; } */
+    /* */
+
+
+
+.Forms_Next{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+}
+  .background_form_next1{
+    position: absolute;
+    margin: -15px;
+    top: 5rem;
+    right: 5rem;
+    width: 360px;
+    /* height: 360px; */
+    border-radius: 15px;
+    background-color: rgba(60, 44, 44, 0.8);
+    text-align: center;
+    color: rgb(55, 238, 238);
+}
+
+#Gender{
+    font-size: 25px;
+    
+}
+label {
+    font-size: 25px;
+ 
+}
+.h3_form_next1{
+    color:white;
+    font-size: 20px;
+}
+hr{
+font-size:20%;
+padding: 0px;
+margin: 0px;
+    color: blue;
+}
+
+body {
+    background-image: url(../img/img4.jpg);
+    /* direction: rtl; */
+     width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size:cover; 
+}
+
+.btn {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.intro-self {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #379cf4;
+    border-radius: 20px;
+    padding: 10px 50px  ;
+}
